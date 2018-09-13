@@ -11,7 +11,7 @@ class String:
 		return 'Object: {}'.format(self.string)
 
 #driver code
-if __name__=='__main__'
+if __name__=='__main__':
 	#object creation
 	string1=String("Hello World Program using Dunders")
 	print(string1)
